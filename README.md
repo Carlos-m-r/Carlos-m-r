@@ -2,8 +2,8 @@
 **Full Stack developer** based in Sevilla, Spain currently studying at **IES Alixar** in Castilleja de la Cuesta, Sevilla.
 
 ## About me
-Always looking for a new challenge
 - **Previous studies**: Multiplatform App development (Mobile and desktop).
+- Always looking to learn something new.
 
 
 ## Techs
@@ -15,6 +15,12 @@ Always looking for a new challenge
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
 
+
 ## Contact
-Mail: [carlosmartelraposo@gmail.com](mailto:carlosmartelraposo@gmail.com)
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/carlos-martel-raposo-798312222/)
+<a href="mailto:carlosmartelraposo@gmail.com">
+  <img src="image.png" width="50" height="50" alt="Email">
+</a>
+
+<a href="https://linkedin.com">
+  <img src="image-1.png" width="50" height="50" alt="LinkedIn">
+</a>
