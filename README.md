@@ -17,12 +17,10 @@
 
 
 ## Contact
-
 <a href="mailto:carlosmartelraposo@gmail.com">
-  <img src="img/correo-electronico.png" width=60px height=60px alt="Email">
+  <img src="image.png" width="50" height="50" alt="Email">
 </a>
 
 <a href="https://linkedin.com">
-  <img src="img/linkedin.png" width=60px height=60px alt="LinkedIn">
+  <img src="image-1.png" width="50" height="50" alt="LinkedIn">
 </a>
-
